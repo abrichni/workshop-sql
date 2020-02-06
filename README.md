@@ -1,2 +1,2 @@
 # workshop-sql
-autoformation sql
+auto-formation sql
